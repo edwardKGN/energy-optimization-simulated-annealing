@@ -1,0 +1,20 @@
+# Custom
+test.py
+main ALT.py
+
+# References
+**/tutorial.py
+**/ML_OptimizerCC*.py
+
+# None-Code
+*.csv
+*.json
+*.p
+*.yml
+*.png
+
+# Derivatives
+*.iml
+*.xml
+*.pyc
+*.csv#
